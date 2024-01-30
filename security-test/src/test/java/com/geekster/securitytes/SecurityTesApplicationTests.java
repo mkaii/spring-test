@@ -1,10 +1,10 @@
-package com.test.customertest;
+package com.geekster.securitytes;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 
 @SpringBootTest
-class CustomerTestApplicationTests {
+class SecurityTesApplicationTests {
 
 	@Test
 	void contextLoads() {
